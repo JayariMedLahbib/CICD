@@ -1,0 +1,25 @@
+Pour que tu puisse faire un entretien:
+Différence entre le type de valeur et le type de référence
+https://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type
+
+
+
+cour devops
+https://www.youtube.com/watch?v=o1y1qsl-Pbc&ab_channel=DevopsWorld
+
+
+Reflection :  "cette technique qui ma monter mehdi lorsque ticker add paramater" 
+
+– Renforcer l’équipe en prenant en charge la maintenance et l’évolution des applications
+– Challenger techniquement l’équipe et être force de proposition
+– Concevoir une architecture logicielle
+– Etre une force de proposition
+– Proposer des évolutions et/ou des optimisations
+– Participer aux rituels Agile (Daily meeting..).
+– Participer aux phases de conceptions techniques et de tests
+– Réaliser des tests unitaires et BDD
+– Faire de clean code / revue de code
+– Présenter des sujets de partage avec l’équipe
+
+
+https://www.fullstack.cafe/interview-questions/arrays
